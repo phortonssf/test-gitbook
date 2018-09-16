@@ -3,4 +3,5 @@
 * [Loopback](README.md)
 * [Angular](angular.md)
 * [ES6](es6.md)
+* [Testing](testing.md)
 
